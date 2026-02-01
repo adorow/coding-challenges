@@ -1,0 +1,9 @@
+[package]
+name = "coding-challenge-redis-adorow"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[dev-dependencies]
+mock_instant = ">=0.5"
